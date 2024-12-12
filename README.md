@@ -9,3 +9,5 @@ Se requiere un sistema que pueda correr en consola que permita la atención al c
 - Mostrar el costo total que el usuario debe pagar
 - Cobrar al usuario
 - Reportar el monto total de ventas realizadas.
+
+Comentario: el código se ha hecho unicamente con el contenido mostrado en el curso y se puede mejorar aún más.
